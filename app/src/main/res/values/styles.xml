@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="article_title">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="article_author">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginRight">@dimen/small_spacing</item>
+    </style>
+
+    <style name="article_section_name">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="article_content">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="article_date">
+        <item name="android:textSize">12sp</item>
+    </style>
+</resources>
